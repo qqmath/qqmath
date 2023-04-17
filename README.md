@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Wakatime, Jekyll (building a custom theme).
 - 📫 How to reach me: https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-824013a9/
 - ⚡ Fun fact: No fun today, only grind.
--->
