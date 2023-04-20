@@ -9,7 +9,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science, Applications of Approximation Theory (i.e. various Approximation Algorithms), Data Analysis.
 - 🌱 I’m currently learning Streamlit, Vega-Altair, Qiskit.
