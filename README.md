@@ -1,5 +1,5 @@
 ### Hi there I'm Viki 👋 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=qqmath)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=qqmath&left_color=green&right_color=red)
 
 
 
@@ -15,4 +15,4 @@
 - 👯 I’m looking to collaborate with people looking for a data scientist and/or researcher for their projects, open source, non-profit. 
 - 🤔 I’m looking for help with Wakatime, Jekyll (building a custom theme).
 - 📫 How to reach me: https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-824013a9/
-- ⚡ Fun fact: No fun today, only grind.
+
