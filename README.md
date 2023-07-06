@@ -1,6 +1,4 @@
 ### Hi there I'm Viki 👋 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=qqmath&left_color=green&right_color=red)
-
 
 
 <!--
