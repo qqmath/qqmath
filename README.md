@@ -14,7 +14,9 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/KQG8
 - Machine Learning Specialization https://www.coursera.org/account/accomplishments/specialization/certificate/BWUUXMBKASDV
 
 
-  🔭 I’m currently working on Data Science, Applications of Approximation Theory (i.e. various Approximation Algorithms), Data Analysis.
+ 
+ 
+ 🔭 I’m currently working on Data Science, Applications of Approximation Theory (i.e. various Approximation Algorithms), Data Analysis.
 
   
  🌱 I’m currently learning Streamlit, Vega-Altair, Qiskit.
