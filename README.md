@@ -25,5 +25,5 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/KQG8
 - 👯 I’m looking to collaborate with people looking for a data scientist and/or researcher for their projects.
 
  
-- 📫 How to reach me: https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-phd-824013a9/
+- 📫 How to reach me: https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-phd/
 
