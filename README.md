@@ -27,7 +27,7 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/KQG8
  
 - 📫 How to reach me: https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-phd/, https://sites.google.com/view/viktoriia-voloshyna/home
 
-- 🤳 Skills: PYTHON (PYTORCH, QISKIT, PENNYLANE, ANACONDA, JUPYTER, NUMPY, PANDAS)
+- 🤳 Coding Skills: PYTHON (PYTORCH, QISKIT, PENNYLANE, ANACONDA, JUPYTER, NUMPY, PANDAS)
 DATA VISUALIZATION (STREAMLIT, PYDECK, PLOTLY, PLOTLY.EXPRESS, ALTAIR)
 R, LATEX, C++, TENSORFLOW.
 DATABASES (MYSQL, POSTGRESQL, HSQL, SQLITE, SQL, XML/XSL)
