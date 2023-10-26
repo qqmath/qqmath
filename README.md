@@ -24,11 +24,12 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/KQG8
  
 - 👯 Looking to collaborate with people looking for a data scientist and/or researcher for their projects.
 
- 
-- 📫 How to reach me: https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-phd/, https://sites.google.com/view/viktoriia-voloshyna/home
 
-- 🤳 Coding Skills: PYTHON (PYTORCH, QISKIT, PENNYLANE, ANACONDA, JUPYTER, NUMPY, PANDAS)
+- 🤳 Data Analysis Skills: Spreadsheets, SQL, Tableau, Power BI, KNIME, Apache Spark, SAS.
+
+
+- 🤳 Coding Skills: PYTHON (PYTORCH, QISKIT, PENNYLANE, ANACONDA, JUPYTER, NUMPY, PANDAS), R, LATEX, C++, TENSORFLOW.
 DATA VISUALIZATION (STREAMLIT, PYDECK, PLOTLY, PLOTLY.EXPRESS, ALTAIR)
-R, LATEX, C++, TENSORFLOW.
-DATABASES (MYSQL, POSTGRESQL, HSQL, SQLITE, SQL, XML/XSL)
-MATHEMATICA, MATLAB.
+DATABASES (MYSQL, POSTGRESQL, HSQL, SQLITE, SQL, XML/XSL), MATHEMATICA, MATLAB.
+
+- 📫 How to reach me: https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-phd/, https://sites.google.com/view/viktoriia-voloshyna/home
