@@ -16,13 +16,13 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/KQG8
 
  #### About me:
  
-- 🔭 I’m currently working on Data Science, Applications of Approximation Theory (i.e. various Approximation Algorithms), Data Analysis.
+-  🦾 Worked in Data Science, Machine Learning, Applications of Approximation Theory (i.e. various Approximation Algorithms), Data Analysis.
 
   
-- 🌱 I’m currently learning Streamlit, Vega-Altair, Qiskit.
+- 🌱 Learning Streamlit, LLMs.
 
  
-- 👯 I’m looking to collaborate with people looking for a data scientist and/or researcher for their projects.
+- 👯 Looking to collaborate with people looking for a data scientist and/or researcher for their projects.
 
  
 - 📫 How to reach me: https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-phd/
