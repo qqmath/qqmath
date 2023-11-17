@@ -16,7 +16,7 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/KQG8
 
  #### About me:
  
--  🦾 Worked in Data Science, Machine Learning, Applications of Approximation Theory (i.e. various Approximation Algorithms), Data Analysis.
+-  🦾 Worked in Data Science, Machine Learning, studied Applications of Approximation Theory (i.e. various Approximation Algorithms), Data Analysis.
 
   
 - 🌱 Learning LLMs and industrial machine learning.
