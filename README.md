@@ -32,4 +32,4 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/KQG8
 DATA VISUALIZATION (STREAMLIT, PYDECK, PLOTLY, PLOTLY.EXPRESS, ALTAIR)
 DATABASES (MYSQL, POSTGRESQL, HSQL, SQLITE, SQL, XML/XSL), MATHEMATICA, MATLAB.
 
-- 📫 How to reach me: https://github.com/qqmath, https://sites.google.com/view/viktoriia-voloshyna/home
+- 📫 How to reach me: https://github.com/qqmath, https://sites.google.com/view/viktoriia-voloshyna/home, https://www.linkedin.com/in/viktoriia-voloshyna-phd/.
