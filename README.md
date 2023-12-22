@@ -14,7 +14,7 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/KQG8
 - Machine Learning Specialization
 https://www.coursera.org/account/accomplishments/specialization/certificate/BWUUXMBKASDV
 
-- Algorithms Specialization from Stanford University
+- Algorithms Specialization from Stanford University:
 Work in progress
 
  #### About me:
