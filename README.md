@@ -11,15 +11,18 @@
 - Google Data Analytics Specialization
 https://www.coursera.org/account/accomplishments/specialization/certificate/KQG8NX9KB8HU
 
-- Machine Learning Specialization https://www.coursera.org/account/accomplishments/specialization/certificate/BWUUXMBKASDV
+- Machine Learning Specialization
+https://www.coursera.org/account/accomplishments/specialization/certificate/BWUUXMBKASDV
 
+- Algorithms Specialization from Stanford University
+Work in progress
 
  #### About me:
  
 -  🦾 Worked in Data Science, Machine Learning, studied Applications of Approximation Theory (i.e. various Approximation Algorithms), Data Analysis.
 
   
-- 🌱 Learning LLMs and industrial machine learning.
+- 🌱 Learning LLMs and industrial machine learning, recommender systems.
 
  
 - 👯 Looking to collaborate with people looking for a data scientist and/or researcher for their projects.
