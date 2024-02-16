@@ -35,4 +35,4 @@ Work in progress
 DATA VISUALIZATION (STREAMLIT, PYDECK, PLOTLY, PLOTLY.EXPRESS, ALTAIR)
 DATABASES (MYSQL, POSTGRESQL, HSQL, SQLITE, SQL, XML/XSL), MATHEMATICA, MATLAB.
 
-- 📫 How to reach me: https://github.com/qqmath, https://sites.google.com/view/viktoriia-voloshyna/home, https://www.linkedin.com/in/viktoriia-voloshyna-phd/.
+- 📫 How to reach me: https://viktoriiavoloshyna.com/, https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-phd/.
