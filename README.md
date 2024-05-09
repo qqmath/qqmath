@@ -14,6 +14,9 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/KQG8
 - Machine Learning Specialization
 https://www.coursera.org/account/accomplishments/specialization/certificate/BWUUXMBKASDV
 
+- Omdena Local chapter challenge: Leveraging LLMs to Understand Global Mental Health Well-being & Fomo
+https://confirm.omdena.com/LCp_5us
+
 - Algorithms Specialization from Stanford University:
 Work in progress
 
