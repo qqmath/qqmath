@@ -17,8 +17,8 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/BWUU
 - Omdena Local chapter challenge: Leveraging LLMs to Understand Global Mental Health Well-being & Fomo
 https://confirm.omdena.com/LCp_5us
 
-- Algorithms Specialization from Stanford University:
-Work in progress
+- Omdena Innovation challenge: AI-Driven Temperature Analysis for Educational Environments in Tanzania
+https://confirm.omdena.com/INovxsd
 
  #### About me:
  
