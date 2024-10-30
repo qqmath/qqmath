@@ -24,8 +24,6 @@ https://confirm.omdena.com/INovxsd
  
 -  🦾 Worked in AI, Data Science, Machine Learning, Applications of Approximation Theory (i.e. various Approximation Algorithms), Fractal Analysis, Data Analysis.
 
- 
-- 👯 Looking to collaborate with people looking for a data scientist and/or researcher for their projects.
 
 
 - 📫 How to reach me: https://viktoriiavoloshyna.com/, https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-phd/.
