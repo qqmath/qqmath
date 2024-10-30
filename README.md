@@ -22,20 +22,10 @@ https://confirm.omdena.com/INovxsd
 
  #### About me:
  
--  🦾 Worked in Data Science, Machine Learning, studied Applications of Approximation Theory (i.e. various Approximation Algorithms), Data Analysis.
-
-  
-- 🌱 Learning LLMs and industrial machine learning, recommender systems.
+-  🦾 Worked in AI, Data Science, Machine Learning, Applications of Approximation Theory (i.e. various Approximation Algorithms), Fractal Analysis, Data Analysis.
 
  
 - 👯 Looking to collaborate with people looking for a data scientist and/or researcher for their projects.
 
-
-- 🤳 Data Analysis Skills: Spreadsheets, SQL, Tableau, Power BI, KNIME, Apache Spark, SAS.
-
-
-- 🤳 Coding Skills: PYTHON (PYTORCH, QISKIT, PENNYLANE, ANACONDA, JUPYTER, NUMPY, PANDAS, KERAS), R, LATEX, C++, TENSORFLOW.
-DATA VISUALIZATION (STREAMLIT, PYDECK, PLOTLY, PLOTLY.EXPRESS, ALTAIR)
-DATABASES (MYSQL, POSTGRESQL, HSQL, SQLITE, SQL, XML/XSL), MATHEMATICA, MATLAB.
 
 - 📫 How to reach me: https://viktoriiavoloshyna.com/, https://github.com/qqmath, https://www.linkedin.com/in/viktoriia-voloshyna-phd/.
